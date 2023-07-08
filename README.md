@@ -19,19 +19,19 @@ This project aims to develop a cost-effective smart wheelchair that utilizes eye
 ## Prototype
 
 <div align="center">
-  <img height="150" src="https://github.com/IshanVyas0610/Electrooculography-Controlled-Motorized-Wheelchair/blob/main/Photos/Prototype.jpg"/>
+  <img height="300" src="https://github.com/IshanVyas0610/Electrooculography-Controlled-Motorized-Wheelchair/blob/main/Photos/Prototype.jpg"/>
 </div>
 
 <div align="center">
-  <img height="150" src="https://github.com/IshanVyas0610/Electrooculography-Controlled-Motorized-Wheelchair/blob/main/Photos/Mechatronic%20System.jpg"/>
+  <img height="300" src="https://github.com/IshanVyas0610/Electrooculography-Controlled-Motorized-Wheelchair/blob/main/Photos/Mechatronic%20System.jpg"/>
 </div>
 
 <div align="center">
-  <img height="150" src="https://github.com/IshanVyas0610/Electrooculography-Controlled-Motorized-Wheelchair/blob/main/Photos/Functional%20modules%20of%20EOG%20wheelchair.jpg"/>
+  <img height="300" src="https://github.com/IshanVyas0610/Electrooculography-Controlled-Motorized-Wheelchair/blob/main/Photos/Functional%20modules%20of%20EOG%20wheelchair.jpg"/>
 </div>
 
 <div align="center">
-  <img height="150" src="https://github.com/IshanVyas0610/Electrooculography-Controlled-Motorized-Wheelchair/blob/main/Photos/Wheelchair%20Perspective.png"/>
+  <img height="300" src="https://github.com/IshanVyas0610/Electrooculography-Controlled-Motorized-Wheelchair/blob/main/Photos/Wheelchair%20Perspective.png"/>
 </div>
 
 
@@ -40,7 +40,7 @@ This project aims to develop a cost-effective smart wheelchair that utilizes eye
 [<img src="https://github.com/IshanVyas0610/Electrooculography-Controlled-Motorized-Wheelchair/blob/main/Photos/Analysis.png" width="100%">](https://youtu.be/NXZX6Pib1VA)
 
 <div align="center">
-  <img height="150" src="https://github.com/IshanVyas0610/      Electrooculography-Controlled-Motorized-Wheelchair/blob/main/Photos/PLX-DAQ%20Edited.png"/>
+  <img height="400" src="https://github.com/IshanVyas0610/Electrooculography-Controlled-Motorized-Wheelchair/blob/main/Photos/PLX-DAQ%20Edited.png"/>
 </div>
 
 
